@@ -1,0 +1,21 @@
+body {
+    background-image: url(/img/night2.jpg);
+}
+#tit{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+#botao2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(30, 30, 88);
+    border-radius: 2ch;
+    color: white;
+}
+#exer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
